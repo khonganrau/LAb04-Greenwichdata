@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\bin\Debug\GreenwichUniversityData.dacpac
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\bin\Debug\GreenwichUniversityData.dll
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\bin\Debug\GreenwichUniversityData.pdb
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\obj\Debug\GreenwichUniversityData.sqlprojAssemblyReference.cache
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\obj\Debug\Model.xml
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\obj\Debug\refactor.xml
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\obj\Debug\postdeploy.sql
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\obj\Debug\predeploy.sql
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\obj\Debug\GreenwichUniversityData.dll
+C:\Users\ADMIN\source\repos\GreenwichUniversityData\GreenwichUniversityData\obj\Debug\GreenwichUniversityData.pdb
